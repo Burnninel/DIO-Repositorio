@@ -29,9 +29,4 @@
 - Capacidade de adaptação
 - Compromisso com resultados
 - Facilidade de trabalho em equipe
-- Logica de Programação ágeis 
-
-
-
-
-
+- Logica de Programação ágeis
